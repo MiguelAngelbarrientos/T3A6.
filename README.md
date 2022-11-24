@@ -31,11 +31,11 @@ salida:
 
 +-------------------------------------------------------------------------------+
 |la empresa es cdmx                                                             |
-| el nombre del empleado es Miguel ángel andrés                                 |
+| el nombre del empleado es Miguel ángel                                        |
 | el RFC del empleado es 1234567                                                |
 |el curp del empleado es:                                                       |
 |el correo electronico del empleado es comoalcatelc794@gmail.com                |
-|el salario neto del empleado Miguel Ángel Andrés es 100                        |
+|el salario neto del empleado Miguel Ángel es 100                               |
 |la nomina de todos los empleados es de 1000                                    |
 |                                                                               |
 |                                                                               |
